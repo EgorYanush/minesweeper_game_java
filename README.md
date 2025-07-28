@@ -1,5 +1,7 @@
 # Minesweeper Game (JavaRush)
 
+##Link for game https://javarush.com/projects/apps/366190
+
 This is a simple implementation of the classic **Minesweeper** game, written in **Java**, using the [JavaRush Game Engine](https://javarush.com/).
 
 ## 📦 Features
